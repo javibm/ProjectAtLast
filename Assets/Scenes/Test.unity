@@ -216,21 +216,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 114313301037875896, guid: 4c03f938082d541798f7ab04c0504fe6,
-        type: 2}
-      propertyPath: heightInitialPosition.ConstantValue
-      value: -4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114313301037875896, guid: 4c03f938082d541798f7ab04c0504fe6,
-        type: 2}
-      propertyPath: floorsInScreen.ConstantValue
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 114313301037875896, guid: 4c03f938082d541798f7ab04c0504fe6,
-        type: 2}
-      propertyPath: heightBetweenFloors.ConstantValue
-      value: 4
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4c03f938082d541798f7ab04c0504fe6, type: 2}
   m_IsPrefabParent: 0
