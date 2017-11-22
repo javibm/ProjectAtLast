@@ -4,7 +4,8 @@ namespace IndieLaw.AtLast
 {
 	public class AspectRatioEnforcer : MonoBehaviour 
 	{
-		public FloatReference targetRatio;
+		[SerializeField]
+		private FloatReference targetRatio;
 
 		void Awake()
 		{
